@@ -1,6 +1,6 @@
 # Resources-for-preparation-Of-Placements
 
-# Resources-for-preparation-Of-Placements (Lecture video links)
+## Lecture video links
 
 **Programming Language Used : C**
 
